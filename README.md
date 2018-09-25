@@ -1,5 +1,4 @@
 # Titanic
-https://www.kaggle.com/c/titanic
 
 # Description
 This repository contains the notebooks that utilize the Titanic dataset available at Kaggle website under the Competitions Tab. 
