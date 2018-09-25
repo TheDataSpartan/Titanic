@@ -7,4 +7,4 @@ Each Notebook contains similar data processing and visualization techniques whil
 
 # Notes
 Each Jupyter Notebook has the Kaggle Score included in its name.
-The Notebooks can be found on my Kaggle Account under the Kernels Tab. https://www.kaggle.com/thedataspartan
+The Notebooks can also be found on my Kaggle Account under the Kernels Tab. https://www.kaggle.com/thedataspartan
